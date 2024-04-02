@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/nodejs-fully-final
-  tag: ''
+  tag: 1346635b6997b11cfca76956a8b988817f48bdc2
   pullPolicy: Always
 
 service:
